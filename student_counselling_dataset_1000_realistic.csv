@@ -1,0 +1,1001 @@
+Student_ID,Class,Previous_Stream,Percentage,Primary_Skill,Interest,Budget,Career_Goal,Career_Readiness_Score,Recommended_Course
+1,10th,None,46,Analytical,Business,Low,Job,53,Commerce
+2,10th,None,88,Technical,Design,High,Business,90,Arts
+3,10th,None,50,Analytical,Medical,High,Government,52,Science
+4,10th,None,90,Creative,Design,Low,Business,93,Arts
+5,12th,Arts,45,Problem Solving,Medical,Medium,Business,46,Science
+6,10th,None,58,Technical,Business,Low,Business,60,Commerce
+7,12th,Arts,83,Technical,Business,High,Business,89,Commerce
+8,10th,None,69,Leadership,Technology,Medium,Government,72,Diploma Engineering
+9,12th,Commerce,90,Technical,Technology,High,Job,98,Science
+10,12th,Arts,59,Creative,Technology,Medium,Business,63,Diploma Engineering
+11,12th,Science,67,Problem Solving,Medical,Medium,Government,71,Pharmacy
+12,10th,None,83,Leadership,Medical,High,Job,83,Science
+13,12th,Science,85,Analytical,Design,High,Business,93,Arts
+14,10th,None,59,Communication,Technology,Medium,Business,58,Diploma Engineering
+15,10th,None,81,Analytical,Business,High,Business,86,Commerce
+16,12th,Science,53,Problem Solving,Medical,High,Government,54,Pharmacy
+17,12th,Arts,70,Analytical,Business,Low,Government,75,Commerce
+18,10th,None,93,Technical,Technology,Low,Government,96,Science
+19,12th,Commerce,69,Leadership,Arts,Medium,Government,70,Arts
+20,10th,None,88,Problem Solving,Technology,High,Business,93,Science
+21,12th,Science,72,Creative,Medical,Low,Government,76,Nursing
+22,12th,Arts,93,Leadership,Medical,Low,Government,94,Science
+23,10th,None,54,Analytical,Business,High,Government,56,Commerce
+24,12th,Commerce,52,Communication,Business,Low,Job,52,CA Foundation
+25,10th,None,50,Technical,Arts,High,Job,53,Arts
+26,12th,Arts,55,Leadership,Business,High,Business,55,Commerce
+27,10th,None,90,Creative,Business,High,Government,91,Commerce
+28,12th,Arts,73,Analytical,Technology,Low,Job,77,Diploma Computer
+29,10th,None,82,Analytical,Design,High,Job,84,Arts
+30,10th,None,90,Analytical,Technology,Low,Job,98,Science
+31,12th,Science,60,Problem Solving,Business,Medium,Job,63,Commerce
+32,10th,None,91,Leadership,Design,Medium,Job,96,Arts
+33,12th,Arts,57,Technical,Technology,High,Business,61,Diploma Engineering
+34,12th,Commerce,91,Problem Solving,Technology,High,Government,90,Science
+35,10th,None,70,Technical,Business,Low,Job,73,Commerce
+36,12th,Science,56,Creative,Business,Low,Job,58,Commerce
+37,10th,None,48,Technical,Design,Low,Job,51,Arts
+38,12th,Commerce,58,Technical,Arts,Low,Business,60,Arts
+39,12th,Science,95,Communication,Arts,Medium,Government,99,Arts
+40,12th,Science,63,Technical,Medical,High,Government,69,Pharmacy
+41,10th,None,92,Technical,Business,Low,Government,97,Commerce
+42,10th,None,48,Technical,Design,Low,Job,54,Arts
+43,10th,None,88,Creative,Medical,Low,Government,88,Science
+44,10th,None,84,Creative,Technology,High,Government,87,Diploma Computer
+45,12th,Arts,58,Analytical,Business,Medium,Business,61,Commerce
+46,12th,Commerce,93,Technical,Technology,Medium,Government,99,Science
+47,10th,None,49,Analytical,Design,High,Business,52,Arts
+48,12th,Arts,60,Communication,Business,Low,Business,65,Commerce
+49,12th,Commerce,96,Technical,Design,High,Government,100,Arts
+50,10th,None,53,Technical,Business,Low,Government,59,Commerce
+51,10th,None,62,Leadership,Business,Low,Government,63,Commerce
+52,10th,None,88,Leadership,Business,Medium,Business,93,Commerce
+53,10th,None,50,Communication,Arts,Low,Job,51,Arts
+54,10th,None,85,Analytical,Business,High,Business,91,Commerce
+55,12th,Commerce,52,Problem Solving,Technology,Low,Government,51,Diploma Engineering
+56,12th,Commerce,54,Analytical,Arts,Low,Business,58,Arts
+57,10th,None,67,Problem Solving,Medical,Low,Government,66,Science
+58,12th,Arts,71,Problem Solving,Design,Low,Job,76,Animation
+59,10th,None,96,Creative,Medical,Low,Job,100,Science
+60,12th,Arts,71,Communication,Medical,Low,Government,70,Science
+61,12th,Arts,75,Analytical,Medical,Medium,Business,79,Science
+62,10th,None,59,Problem Solving,Technology,Low,Business,60,Diploma Engineering
+63,12th,Arts,94,Communication,Business,High,Government,96,Commerce
+64,12th,Arts,52,Analytical,Business,High,Business,54,Commerce
+65,10th,None,83,Communication,Arts,High,Business,85,Arts
+66,10th,None,69,Analytical,Design,Medium,Job,76,Arts
+67,12th,Science,96,Problem Solving,Design,High,Government,100,Arts
+68,10th,None,68,Technical,Arts,High,Business,74,Arts
+69,12th,Commerce,52,Leadership,Business,Medium,Government,54,CA Foundation
+70,12th,Commerce,63,Analytical,Design,Low,Business,70,Arts
+71,12th,Commerce,56,Leadership,Design,Medium,Business,59,Arts
+72,10th,None,64,Analytical,Business,Medium,Government,70,Commerce
+73,12th,Commerce,73,Leadership,Medical,Medium,Government,73,Science
+74,10th,None,63,Problem Solving,Design,High,Government,64,Arts
+75,10th,None,97,Problem Solving,Medical,Medium,Job,100,Science
+76,10th,None,54,Technical,Technology,Low,Business,60,Diploma Engineering
+77,10th,None,74,Problem Solving,Arts,High,Job,78,Arts
+78,12th,Commerce,60,Problem Solving,Medical,High,Job,65,Science
+79,10th,None,94,Analytical,Arts,Low,Government,100,Arts
+80,12th,Science,60,Creative,Technology,Low,Business,64,B.Sc IT
+81,12th,Arts,73,Problem Solving,Design,High,Business,78,Animation
+82,12th,Arts,92,Creative,Arts,Medium,Job,97,BA
+83,12th,Arts,78,Problem Solving,Arts,Low,Business,80,Journalism
+84,10th,None,90,Analytical,Business,Medium,Business,94,Commerce
+85,10th,None,53,Analytical,Medical,Medium,Government,56,Science
+86,10th,None,49,Creative,Arts,Medium,Government,51,Arts
+87,12th,Science,98,Creative,Arts,High,Government,97,Arts
+88,12th,Commerce,67,Creative,Business,Medium,Government,71,CA Foundation
+89,10th,None,76,Communication,Medical,Medium,Business,75,Science
+90,12th,Science,88,Problem Solving,Arts,Low,Business,88,Arts
+91,10th,None,70,Leadership,Design,High,Job,69,Arts
+92,12th,Science,74,Technical,Medical,Medium,Business,78,Nursing
+93,10th,None,74,Communication,Business,Medium,Business,79,Commerce
+94,12th,Science,50,Technical,Arts,High,Government,52,Arts
+95,12th,Science,49,Technical,Technology,Low,Job,57,B.Sc IT
+96,10th,None,84,Analytical,Medical,Low,Business,91,Science
+97,10th,None,81,Creative,Medical,High,Business,86,Science
+98,12th,Science,83,Analytical,Technology,Medium,Job,89,BCA
+99,10th,None,64,Problem Solving,Design,Medium,Business,68,Arts
+100,10th,None,49,Problem Solving,Design,High,Job,48,Arts
+101,12th,Arts,83,Leadership,Technology,Low,Business,86,Diploma Computer
+102,12th,Commerce,49,Problem Solving,Design,Medium,Job,54,Arts
+103,12th,Arts,51,Communication,Arts,High,Business,55,Journalism
+104,10th,None,72,Problem Solving,Medical,High,Government,73,Science
+105,12th,Commerce,97,Communication,Design,Medium,Job,100,Arts
+106,10th,None,62,Analytical,Arts,Medium,Government,68,Arts
+107,12th,Science,76,Analytical,Business,Medium,Job,80,Commerce
+108,12th,Science,83,Leadership,Business,Low,Government,83,Commerce
+109,10th,None,60,Creative,Arts,High,Job,64,Arts
+110,12th,Commerce,76,Technical,Arts,Low,Business,79,Arts
+111,12th,Commerce,64,Communication,Design,Medium,Government,67,Arts
+112,12th,Commerce,92,Communication,Design,Medium,Government,94,Arts
+113,12th,Science,59,Problem Solving,Technology,Low,Business,58,B.Sc IT
+114,10th,None,57,Problem Solving,Medical,Medium,Business,61,Science
+115,12th,Arts,98,Communication,Medical,Low,Business,98,Science
+116,12th,Science,79,Communication,Medical,Low,Job,82,Nursing
+117,12th,Commerce,53,Technical,Arts,Low,Government,57,Arts
+118,12th,Commerce,66,Technical,Medical,Medium,Business,68,Science
+119,10th,None,70,Technical,Arts,High,Government,77,Arts
+120,10th,None,54,Leadership,Medical,Medium,Job,54,Science
+121,10th,None,80,Leadership,Arts,High,Government,80,Arts
+122,12th,Commerce,73,Leadership,Business,Medium,Business,76,B.Com
+123,10th,None,84,Analytical,Technology,High,Job,88,Diploma Computer
+124,10th,None,55,Analytical,Medical,High,Job,58,Science
+125,10th,None,71,Problem Solving,Arts,High,Business,72,Arts
+126,10th,None,59,Problem Solving,Business,Medium,Government,64,Commerce
+127,12th,Science,59,Problem Solving,Business,High,Government,64,Commerce
+128,10th,None,72,Leadership,Technology,Low,Government,72,Diploma Computer
+129,12th,Arts,49,Analytical,Technology,Medium,Government,56,Diploma Engineering
+130,12th,Commerce,74,Problem Solving,Business,Medium,Business,77,B.Com
+131,12th,Commerce,83,Creative,Technology,High,Business,86,Diploma Computer
+132,12th,Science,59,Leadership,Design,Low,Government,64,Arts
+133,12th,Commerce,93,Creative,Medical,High,Government,95,Science
+134,12th,Science,82,Problem Solving,Arts,Medium,Job,84,Arts
+135,12th,Commerce,65,Analytical,Technology,Medium,Business,72,Diploma Engineering
+136,12th,Science,70,Technical,Design,Medium,Job,74,Arts
+137,12th,Science,94,Leadership,Arts,Low,Government,99,Arts
+138,12th,Commerce,57,Communication,Design,High,Business,61,Arts
+139,12th,Arts,58,Leadership,Business,Low,Business,60,Commerce
+140,12th,Science,85,Analytical,Design,High,Job,89,Arts
+141,10th,None,80,Technical,Arts,Low,Job,85,Arts
+142,10th,None,86,Creative,Medical,High,Business,89,Science
+143,12th,Commerce,75,Analytical,Arts,Medium,Government,78,Arts
+144,12th,Science,83,Problem Solving,Design,Low,Job,84,Arts
+145,12th,Science,95,Communication,Design,Low,Business,99,Arts
+146,12th,Arts,82,Analytical,Arts,Medium,Government,87,Journalism
+147,12th,Science,93,Creative,Design,Medium,Business,98,Arts
+148,10th,None,89,Leadership,Medical,Medium,Job,94,Science
+149,12th,Science,92,Problem Solving,Arts,Medium,Business,96,Arts
+150,10th,None,76,Analytical,Technology,High,Government,80,Diploma Computer
+151,10th,None,73,Leadership,Technology,Medium,Job,77,Diploma Computer
+152,10th,None,71,Technical,Medical,Medium,Business,75,Science
+153,12th,Commerce,66,Creative,Design,Medium,Government,70,Arts
+154,12th,Arts,47,Technical,Design,Low,Government,54,Fashion Design
+155,12th,Arts,92,Creative,Technology,Low,Government,96,Science
+156,10th,None,73,Problem Solving,Medical,Medium,Job,72,Science
+157,12th,Arts,63,Communication,Business,Medium,Job,63,Commerce
+158,12th,Commerce,95,Analytical,Medical,Low,Job,100,Science
+159,12th,Commerce,60,Leadership,Arts,Low,Job,62,Arts
+160,12th,Commerce,87,Creative,Technology,Medium,Government,90,Science
+161,10th,None,49,Communication,Arts,High,Business,53,Arts
+162,12th,Commerce,74,Analytical,Business,Medium,Business,76,B.Com
+163,10th,None,69,Communication,Design,High,Business,73,Arts
+164,12th,Science,98,Communication,Arts,Low,Government,100,Arts
+165,10th,None,83,Communication,Arts,Low,Government,88,Arts
+166,12th,Science,57,Communication,Design,High,Government,62,Arts
+167,10th,None,85,Problem Solving,Technology,High,Job,86,Science
+168,12th,Science,68,Technical,Medical,Medium,Business,75,Pharmacy
+169,12th,Science,53,Communication,Design,High,Government,54,Arts
+170,10th,None,61,Communication,Arts,High,Business,66,Arts
+171,10th,None,74,Analytical,Technology,Low,Government,81,Diploma Computer
+172,12th,Arts,96,Communication,Design,Low,Business,95,B.Des
+173,12th,Commerce,74,Problem Solving,Business,High,Government,75,B.Com
+174,12th,Arts,68,Problem Solving,Technology,Low,Business,67,Diploma Engineering
+175,12th,Arts,59,Problem Solving,Technology,Medium,Government,60,Diploma Engineering
+176,12th,Science,47,Communication,Technology,Medium,Job,46,B.Sc IT
+177,10th,None,79,Creative,Medical,Medium,Business,83,Science
+178,12th,Commerce,91,Creative,Medical,High,Job,96,Science
+179,12th,Commerce,62,Problem Solving,Technology,Medium,Job,64,Diploma Engineering
+180,12th,Arts,68,Problem Solving,Technology,Medium,Government,72,Diploma Engineering
+181,12th,Science,62,Technical,Medical,Medium,Job,69,Pharmacy
+182,10th,None,86,Technical,Design,Low,Business,89,Arts
+183,10th,None,95,Analytical,Design,Low,Government,98,Arts
+184,10th,None,97,Communication,Medical,Low,Government,96,Science
+185,12th,Arts,54,Leadership,Medical,Medium,Job,53,Science
+186,10th,None,53,Communication,Technology,Low,Government,54,Diploma Engineering
+187,10th,None,56,Technical,Business,Low,Government,61,Commerce
+188,10th,None,92,Creative,Technology,Medium,Business,95,Science
+189,10th,None,73,Analytical,Design,High,Job,80,Arts
+190,12th,Commerce,46,Creative,Technology,Medium,Business,50,Diploma Engineering
+191,10th,None,76,Technical,Arts,Low,Business,82,Arts
+192,10th,None,49,Communication,Medical,High,Government,52,Science
+193,12th,Science,83,Communication,Design,Medium,Government,86,Arts
+194,12th,Science,89,Problem Solving,Technology,High,Government,93,B.Tech
+195,10th,None,72,Analytical,Arts,Medium,Business,80,Arts
+196,12th,Science,91,Communication,Technology,Medium,Business,95,B.Tech
+197,12th,Science,54,Technical,Arts,Low,Job,56,Arts
+198,12th,Science,92,Analytical,Business,High,Job,98,Commerce
+199,12th,Commerce,71,Problem Solving,Business,Medium,Government,70,B.Com
+200,12th,Commerce,67,Leadership,Technology,High,Job,67,Diploma Engineering
+201,12th,Science,51,Leadership,Business,Medium,Job,56,Commerce
+202,12th,Commerce,96,Leadership,Arts,High,Government,100,Arts
+203,10th,None,83,Technical,Business,Low,Business,90,Commerce
+204,12th,Arts,67,Analytical,Technology,Low,Government,74,Diploma Engineering
+205,12th,Science,92,Technical,Technology,High,Government,95,B.Tech
+206,12th,Commerce,66,Communication,Medical,Medium,Government,67,Science
+207,10th,None,48,Analytical,Medical,High,Job,55,Science
+208,10th,None,62,Problem Solving,Arts,Medium,Business,65,Arts
+209,12th,Commerce,58,Technical,Design,Medium,Business,60,Arts
+210,12th,Commerce,82,Leadership,Arts,High,Business,81,Arts
+211,10th,None,70,Technical,Design,Low,Job,74,Arts
+212,10th,None,94,Communication,Medical,Medium,Business,93,Science
+213,10th,None,76,Analytical,Arts,Low,Business,82,Arts
+214,10th,None,77,Problem Solving,Design,Medium,Job,79,Arts
+215,10th,None,72,Creative,Technology,Low,Business,75,Diploma Computer
+216,12th,Commerce,90,Communication,Arts,Low,Business,89,Arts
+217,12th,Science,84,Problem Solving,Arts,Medium,Job,86,Arts
+218,10th,None,60,Leadership,Arts,Medium,Government,59,Arts
+219,12th,Arts,92,Analytical,Business,Medium,Job,94,Commerce
+220,10th,None,78,Analytical,Design,Medium,Business,85,Arts
+221,10th,None,60,Analytical,Technology,Medium,Job,63,Diploma Engineering
+222,10th,None,93,Analytical,Technology,High,Business,98,Science
+223,12th,Commerce,81,Communication,Design,High,Business,81,Arts
+224,12th,Science,73,Communication,Business,High,Job,74,Commerce
+225,10th,None,64,Creative,Arts,Low,Job,65,Arts
+226,12th,Science,50,Leadership,Design,High,Business,52,Arts
+227,10th,None,73,Problem Solving,Design,Low,Business,76,Arts
+228,12th,Commerce,48,Technical,Arts,Medium,Government,50,Arts
+229,10th,None,47,Problem Solving,Medical,Medium,Business,50,Science
+230,10th,None,68,Communication,Business,Medium,Business,73,Commerce
+231,12th,Commerce,48,Technical,Business,Medium,Job,54,CA Foundation
+232,12th,Science,91,Analytical,Design,Medium,Job,97,Arts
+233,10th,None,67,Problem Solving,Business,High,Government,69,Commerce
+234,10th,None,83,Communication,Technology,High,Business,87,Diploma Computer
+235,12th,Arts,87,Technical,Design,High,Government,92,B.Des
+236,12th,Science,64,Analytical,Medical,Medium,Business,67,Pharmacy
+237,10th,None,53,Technical,Medical,Medium,Job,59,Science
+238,10th,None,87,Leadership,Business,Low,Government,89,Commerce
+239,10th,None,55,Problem Solving,Medical,High,Job,59,Science
+240,12th,Science,68,Creative,Medical,High,Business,73,Pharmacy
+241,12th,Science,60,Creative,Business,Low,Business,64,Commerce
+242,12th,Commerce,63,Leadership,Arts,High,Business,63,Arts
+243,10th,None,96,Analytical,Design,Medium,Job,100,Arts
+244,12th,Arts,80,Problem Solving,Technology,High,Job,81,Diploma Computer
+245,10th,None,93,Communication,Medical,Medium,Government,93,Science
+246,12th,Science,59,Communication,Arts,Low,Business,58,Arts
+247,12th,Commerce,60,Technical,Arts,Medium,Job,62,Arts
+248,12th,Arts,98,Analytical,Business,Low,Job,100,Commerce
+249,12th,Commerce,53,Creative,Arts,High,Job,52,Arts
+250,10th,None,61,Analytical,Medical,High,Government,67,Science
+251,12th,Science,63,Communication,Medical,Low,Job,63,Pharmacy
+252,12th,Commerce,84,Technical,Arts,Low,Business,90,Arts
+253,10th,None,85,Leadership,Design,Low,Government,85,Arts
+254,12th,Commerce,84,Analytical,Business,High,Business,87,B.Com
+255,10th,None,78,Technical,Business,High,Government,84,Commerce
+256,10th,None,69,Technical,Arts,High,Business,73,Arts
+257,12th,Arts,67,Communication,Technology,Low,Government,71,Diploma Engineering
+258,10th,None,94,Problem Solving,Design,Medium,Job,93,Arts
+259,12th,Commerce,97,Problem Solving,Medical,Medium,Government,99,Science
+260,10th,None,96,Technical,Medical,High,Business,98,Science
+261,12th,Science,95,Technical,Medical,Medium,Business,100,MBBS
+262,12th,Arts,79,Communication,Arts,Low,Government,79,Journalism
+263,12th,Science,94,Problem Solving,Technology,Medium,Business,93,B.Tech
+264,12th,Commerce,70,Creative,Arts,Medium,Job,72,Arts
+265,12th,Science,96,Communication,Design,Low,Government,98,Arts
+266,10th,None,72,Analytical,Design,High,Business,76,Arts
+267,10th,None,50,Problem Solving,Business,Medium,Business,52,Commerce
+268,12th,Science,73,Creative,Business,Low,Government,78,Commerce
+269,12th,Commerce,72,Problem Solving,Business,Low,Job,76,B.Com
+270,12th,Science,96,Technical,Medical,Low,Government,100,MBBS
+271,12th,Science,49,Problem Solving,Medical,Medium,Business,51,Pharmacy
+272,10th,None,83,Problem Solving,Medical,Medium,Business,84,Science
+273,12th,Arts,81,Leadership,Medical,Medium,Business,82,Science
+274,12th,Science,52,Problem Solving,Technology,Low,Business,55,B.Sc IT
+275,12th,Arts,52,Communication,Business,High,Business,52,Commerce
+276,12th,Commerce,76,Technical,Medical,Low,Job,81,Science
+277,10th,None,90,Technical,Arts,High,Business,97,Arts
+278,12th,Arts,80,Communication,Design,Medium,Job,84,Animation
+279,10th,None,95,Leadership,Business,Low,Job,95,Commerce
+280,10th,None,60,Technical,Arts,Medium,Government,66,Arts
+281,12th,Commerce,80,Leadership,Medical,Low,Job,81,Science
+282,12th,Arts,91,Leadership,Arts,Medium,Business,96,BA
+283,10th,None,53,Problem Solving,Business,Low,Business,55,Commerce
+284,12th,Science,98,Problem Solving,Design,High,Job,100,Arts
+285,10th,None,72,Technical,Design,Low,Government,75,Arts
+286,12th,Science,65,Communication,Medical,High,Business,70,Pharmacy
+287,10th,None,61,Problem Solving,Medical,High,Business,61,Science
+288,12th,Commerce,50,Problem Solving,Design,Low,Government,53,Arts
+289,10th,None,55,Problem Solving,Design,High,Business,60,Arts
+290,10th,None,97,Technical,Technology,Low,Government,100,Science
+291,12th,Commerce,94,Creative,Design,High,Government,93,Arts
+292,12th,Arts,79,Problem Solving,Business,Medium,Business,79,Commerce
+293,12th,Science,49,Analytical,Technology,Medium,Business,54,B.Sc IT
+294,12th,Science,83,Communication,Medical,High,Business,87,Nursing
+295,12th,Arts,53,Leadership,Business,High,Job,54,Commerce
+296,10th,None,74,Communication,Technology,Medium,Job,74,Diploma Computer
+297,10th,None,48,Creative,Business,High,Business,48,Commerce
+298,10th,None,97,Leadership,Business,High,Business,97,Commerce
+299,10th,None,76,Creative,Design,Medium,Business,78,Arts
+300,10th,None,50,Leadership,Arts,Medium,Job,50,Arts
+301,12th,Science,63,Leadership,Arts,High,Government,65,Arts
+302,12th,Commerce,51,Analytical,Arts,Medium,Government,55,Arts
+303,12th,Science,70,Leadership,Technology,High,Job,71,BCA
+304,12th,Science,77,Leadership,Arts,Medium,Government,81,Arts
+305,10th,None,53,Creative,Technology,Medium,Business,56,Diploma Engineering
+306,12th,Arts,57,Leadership,Design,Medium,Government,56,Fashion Design
+307,10th,None,47,Problem Solving,Medical,Medium,Business,50,Science
+308,12th,Science,77,Communication,Medical,High,Business,77,Nursing
+309,12th,Arts,92,Leadership,Business,Medium,Government,97,Commerce
+310,12th,Arts,64,Technical,Arts,Medium,Business,71,Journalism
+311,10th,None,71,Communication,Design,High,Government,75,Arts
+312,10th,None,83,Communication,Arts,High,Government,86,Arts
+313,10th,None,91,Leadership,Technology,Medium,Job,94,Science
+314,12th,Science,88,Technical,Medical,High,Government,90,MBBS
+315,10th,None,46,Communication,Arts,Medium,Job,48,Arts
+316,10th,None,71,Leadership,Design,Medium,Government,75,Arts
+317,10th,None,90,Leadership,Medical,Low,Government,91,Science
+318,12th,Commerce,65,Creative,Medical,High,Business,68,Science
+319,12th,Commerce,91,Leadership,Business,Medium,Job,91,BBA
+320,12th,Commerce,59,Communication,Business,High,Job,63,CA Foundation
+321,12th,Science,67,Problem Solving,Design,Medium,Business,66,Arts
+322,12th,Arts,70,Analytical,Business,Medium,Job,74,Commerce
+323,10th,None,67,Problem Solving,Arts,Medium,Government,69,Arts
+324,10th,None,57,Communication,Design,High,Government,58,Arts
+325,10th,None,51,Problem Solving,Design,High,Job,51,Arts
+326,10th,None,87,Analytical,Design,High,Job,89,Arts
+327,10th,None,71,Problem Solving,Business,Medium,Job,75,Commerce
+328,10th,None,45,Analytical,Design,Medium,Government,50,Arts
+329,12th,Commerce,93,Communication,Business,Medium,Government,92,BBA
+330,10th,None,86,Analytical,Design,High,Government,93,Arts
+331,10th,None,56,Analytical,Arts,Low,Business,64,Arts
+332,12th,Science,92,Technical,Business,Low,Business,98,Commerce
+333,10th,None,66,Creative,Business,High,Government,69,Commerce
+334,12th,Arts,53,Creative,Design,Medium,Job,58,Fashion Design
+335,10th,None,66,Problem Solving,Medical,Medium,Government,67,Science
+336,10th,None,45,Communication,Business,High,Government,50,Commerce
+337,10th,None,56,Problem Solving,Design,Medium,Business,59,Arts
+338,12th,Science,87,Analytical,Technology,Low,Business,91,B.Tech
+339,10th,None,45,Creative,Business,Low,Business,50,Commerce
+340,12th,Arts,64,Problem Solving,Design,High,Job,65,Fashion Design
+341,12th,Commerce,48,Creative,Technology,Medium,Job,50,Diploma Engineering
+342,12th,Commerce,85,Communication,Business,High,Job,85,BBA
+343,10th,None,75,Creative,Medical,High,Government,76,Science
+344,12th,Arts,75,Problem Solving,Design,Low,Job,79,Animation
+345,10th,None,78,Leadership,Arts,High,Business,77,Arts
+346,10th,None,48,Leadership,Design,Low,Government,51,Arts
+347,10th,None,55,Leadership,Business,Medium,Job,59,Commerce
+348,10th,None,90,Creative,Design,Low,Government,92,Arts
+349,10th,None,74,Leadership,Medical,Medium,Business,77,Science
+350,10th,None,80,Problem Solving,Arts,Medium,Government,79,Arts
+351,12th,Science,45,Leadership,Medical,Low,Job,47,Pharmacy
+352,12th,Arts,79,Technical,Technology,Medium,Job,83,Diploma Computer
+353,12th,Science,53,Communication,Arts,Medium,Business,58,Arts
+354,12th,Science,88,Analytical,Design,High,Business,90,Arts
+355,10th,None,79,Leadership,Arts,Low,Government,79,Arts
+356,10th,None,93,Communication,Technology,Medium,Government,97,Science
+357,12th,Commerce,97,Analytical,Medical,Medium,Business,100,Science
+358,12th,Science,91,Technical,Technology,High,Business,97,B.Tech
+359,10th,None,60,Technical,Medical,Low,Government,62,Science
+360,12th,Commerce,90,Analytical,Technology,High,Job,95,Science
+361,12th,Science,58,Analytical,Technology,High,Business,61,B.Sc IT
+362,12th,Commerce,94,Analytical,Business,Medium,Job,100,BBA
+363,10th,None,71,Communication,Business,Low,Government,74,Commerce
+364,10th,None,85,Leadership,Arts,Medium,Job,86,Arts
+365,12th,Arts,65,Creative,Arts,Low,Business,67,Journalism
+366,10th,None,93,Creative,Design,Low,Job,94,Arts
+367,10th,None,96,Technical,Arts,High,Business,100,Arts
+368,10th,None,69,Communication,Medical,Low,Business,73,Science
+369,10th,None,73,Technical,Business,High,Government,81,Commerce
+370,10th,None,48,Creative,Business,High,Government,51,Commerce
+371,10th,None,49,Leadership,Medical,High,Government,52,Science
+372,10th,None,75,Communication,Medical,Medium,Job,75,Science
+373,10th,None,92,Problem Solving,Technology,Medium,Job,96,Science
+374,10th,None,70,Leadership,Medical,Medium,Business,72,Science
+375,12th,Commerce,67,Communication,Business,Medium,Government,69,CA Foundation
+376,12th,Science,91,Communication,Arts,Low,Business,92,Arts
+377,12th,Science,59,Technical,Medical,Medium,Government,65,Pharmacy
+378,12th,Science,57,Analytical,Business,Medium,Government,65,Commerce
+379,10th,None,76,Problem Solving,Design,High,Business,77,Arts
+380,12th,Arts,86,Creative,Arts,Low,Government,91,BA
+381,12th,Science,91,Creative,Design,Low,Government,95,Arts
+382,10th,None,78,Technical,Technology,High,Job,86,Diploma Computer
+383,10th,None,71,Problem Solving,Medical,Low,Job,75,Science
+384,10th,None,45,Leadership,Medical,Medium,Business,45,Science
+385,12th,Commerce,46,Leadership,Technology,High,Business,45,Diploma Engineering
+386,10th,None,78,Leadership,Business,Medium,Job,81,Commerce
+387,12th,Arts,56,Technical,Technology,High,Job,59,Diploma Engineering
+388,10th,None,84,Communication,Design,Medium,Business,89,Arts
+389,12th,Science,70,Leadership,Arts,Low,Government,70,Arts
+390,12th,Commerce,50,Technical,Technology,Medium,Business,55,Diploma Engineering
+391,12th,Science,45,Technical,Medical,Medium,Business,52,Pharmacy
+392,12th,Commerce,51,Technical,Design,Low,Job,59,Arts
+393,12th,Science,49,Leadership,Business,High,Government,48,Commerce
+394,10th,None,65,Analytical,Technology,High,Job,73,Diploma Engineering
+395,12th,Arts,64,Leadership,Medical,Low,Government,69,Science
+396,12th,Commerce,79,Creative,Business,High,Job,84,B.Com
+397,10th,None,77,Technical,Business,Low,Business,80,Commerce
+398,10th,None,66,Leadership,Design,High,Business,71,Arts
+399,12th,Science,62,Creative,Arts,Low,Business,65,Arts
+400,12th,Commerce,88,Problem Solving,Design,Medium,Job,93,Arts
+401,12th,Arts,90,Technical,Technology,Medium,Job,95,Science
+402,10th,None,92,Communication,Arts,Medium,Job,91,Arts
+403,10th,None,64,Communication,Arts,Medium,Job,64,Arts
+404,10th,None,56,Creative,Arts,High,Government,59,Arts
+405,12th,Science,50,Leadership,Business,Low,Government,53,Commerce
+406,12th,Arts,45,Creative,Business,Medium,Job,49,Commerce
+407,10th,None,81,Analytical,Design,High,Business,84,Arts
+408,10th,None,62,Communication,Business,Medium,Job,61,Commerce
+409,10th,None,72,Creative,Business,Medium,Business,77,Commerce
+410,10th,None,68,Analytical,Business,High,Government,73,Commerce
+411,10th,None,74,Analytical,Technology,Medium,Job,79,Diploma Computer
+412,12th,Arts,69,Creative,Business,Medium,Business,74,Commerce
+413,10th,None,64,Leadership,Business,High,Job,66,Commerce
+414,12th,Science,70,Communication,Business,High,Government,74,Commerce
+415,12th,Arts,95,Communication,Medical,Medium,Business,100,Science
+416,12th,Science,81,Leadership,Medical,High,Job,85,Nursing
+417,10th,None,91,Problem Solving,Arts,Low,Business,96,Arts
+418,12th,Arts,49,Problem Solving,Arts,Medium,Job,53,Journalism
+419,12th,Science,87,Problem Solving,Medical,Medium,Business,86,MBBS
+420,12th,Arts,75,Creative,Design,High,Government,80,Animation
+421,12th,Commerce,95,Problem Solving,Business,High,Government,99,BBA
+422,10th,None,51,Problem Solving,Medical,High,Business,51,Science
+423,10th,None,81,Communication,Arts,Medium,Job,80,Arts
+424,10th,None,61,Leadership,Medical,High,Government,64,Science
+425,10th,None,73,Creative,Business,Medium,Government,76,Commerce
+426,10th,None,67,Creative,Technology,Low,Business,69,Diploma Engineering
+427,10th,None,52,Communication,Medical,Medium,Business,54,Science
+428,10th,None,78,Communication,Arts,Medium,Job,80,Arts
+429,12th,Science,64,Problem Solving,Technology,Low,Job,69,B.Sc IT
+430,12th,Commerce,88,Problem Solving,Medical,Low,Government,88,Science
+431,10th,None,66,Creative,Design,Medium,Job,71,Arts
+432,12th,Commerce,56,Creative,Arts,Low,Government,59,Arts
+433,10th,None,73,Creative,Design,Medium,Job,77,Arts
+434,10th,None,58,Problem Solving,Business,Low,Government,57,Commerce
+435,10th,None,68,Analytical,Business,Medium,Job,72,Commerce
+436,12th,Commerce,85,Leadership,Business,Medium,Government,87,BBA
+437,10th,None,67,Creative,Business,High,Job,72,Commerce
+438,12th,Arts,82,Problem Solving,Technology,Low,Business,81,Diploma Computer
+439,10th,None,64,Analytical,Technology,Medium,Government,67,Diploma Engineering
+440,12th,Commerce,53,Creative,Design,Medium,Job,55,Arts
+441,10th,None,80,Creative,Medical,Medium,Job,80,Science
+442,12th,Arts,84,Communication,Technology,Low,Business,84,Diploma Computer
+443,10th,None,97,Leadership,Arts,High,Government,99,Arts
+444,12th,Commerce,71,Creative,Arts,Low,Job,74,Arts
+445,10th,None,95,Communication,Medical,Low,Business,95,Science
+446,12th,Science,74,Problem Solving,Design,Medium,Government,77,Arts
+447,10th,None,81,Communication,Technology,High,Business,84,Diploma Computer
+448,10th,None,93,Leadership,Arts,Low,Business,92,Arts
+449,10th,None,64,Creative,Technology,Medium,Business,69,Diploma Engineering
+450,10th,None,73,Analytical,Technology,Low,Government,79,Diploma Computer
+451,12th,Arts,84,Analytical,Arts,High,Job,92,Journalism
+452,10th,None,97,Technical,Medical,High,Business,100,Science
+453,12th,Commerce,55,Problem Solving,Business,Medium,Business,58,CA Foundation
+454,12th,Arts,77,Analytical,Technology,Medium,Job,81,Diploma Computer
+455,10th,None,89,Analytical,Medical,Low,Government,93,Science
+456,10th,None,93,Creative,Arts,Low,Government,97,Arts
+457,12th,Commerce,69,Technical,Arts,High,Job,74,Arts
+458,12th,Commerce,68,Creative,Arts,Medium,Government,67,Arts
+459,10th,None,91,Problem Solving,Arts,High,Government,92,Arts
+460,10th,None,95,Creative,Design,Low,Business,100,Arts
+461,10th,None,76,Communication,Business,Medium,Business,79,Commerce
+462,10th,None,81,Communication,Arts,High,Job,80,Arts
+463,10th,None,85,Technical,Arts,Low,Job,90,Arts
+464,12th,Science,72,Problem Solving,Medical,Low,Government,73,Nursing
+465,10th,None,62,Problem Solving,Technology,Medium,Business,61,Diploma Engineering
+466,12th,Commerce,86,Technical,Medical,Medium,Government,90,Science
+467,10th,None,72,Problem Solving,Technology,Low,Job,72,Diploma Computer
+468,12th,Science,82,Leadership,Medical,High,Business,81,Nursing
+469,10th,None,89,Technical,Business,Medium,Government,92,Commerce
+470,12th,Science,69,Problem Solving,Technology,Low,Job,70,B.Sc IT
+471,12th,Arts,53,Analytical,Arts,High,Government,56,Journalism
+472,10th,None,78,Technical,Design,High,Government,81,Arts
+473,12th,Science,58,Creative,Medical,High,Government,60,Pharmacy
+474,10th,None,50,Analytical,Technology,Low,Government,57,Diploma Engineering
+475,12th,Science,72,Analytical,Business,Low,Business,79,Commerce
+476,10th,None,60,Leadership,Design,High,Government,63,Arts
+477,12th,Arts,89,Problem Solving,Technology,Medium,Job,92,Science
+478,10th,None,92,Communication,Arts,High,Job,97,Arts
+479,10th,None,76,Technical,Arts,Low,Business,83,Arts
+480,10th,None,78,Communication,Technology,Medium,Job,80,Diploma Computer
+481,12th,Science,88,Creative,Medical,Low,Job,91,MBBS
+482,10th,None,45,Analytical,Business,Low,Job,53,Commerce
+483,12th,Commerce,85,Creative,Design,Medium,Government,87,Arts
+484,10th,None,85,Leadership,Design,High,Job,86,Arts
+485,10th,None,64,Leadership,Technology,Low,Job,67,Diploma Engineering
+486,12th,Science,85,Communication,Technology,High,Business,89,B.Tech
+487,10th,None,48,Technical,Medical,Medium,Job,53,Science
+488,10th,None,64,Technical,Medical,Low,Government,67,Science
+489,10th,None,55,Communication,Arts,High,Government,60,Arts
+490,12th,Science,53,Problem Solving,Business,Low,Job,54,Commerce
+491,12th,Science,49,Problem Solving,Business,High,Government,48,Commerce
+492,12th,Commerce,68,Creative,Technology,High,Job,69,Diploma Engineering
+493,10th,None,61,Leadership,Technology,High,Government,60,Diploma Engineering
+494,10th,None,92,Technical,Design,Low,Job,95,Arts
+495,10th,None,75,Creative,Business,Low,Job,80,Commerce
+496,10th,None,80,Analytical,Arts,Medium,Job,85,Arts
+497,12th,Science,49,Communication,Design,Low,Government,53,Arts
+498,10th,None,56,Leadership,Medical,Low,Business,55,Science
+499,12th,Arts,94,Communication,Business,Low,Government,96,Commerce
+500,10th,None,68,Communication,Medical,High,Business,72,Science
+501,10th,None,74,Leadership,Business,Medium,Job,78,Commerce
+502,10th,None,54,Creative,Technology,Low,Job,57,Diploma Engineering
+503,12th,Commerce,89,Communication,Technology,Low,Government,91,Science
+504,12th,Science,78,Creative,Medical,Medium,Job,78,Nursing
+505,12th,Science,59,Creative,Design,High,Business,61,Arts
+506,10th,None,82,Leadership,Technology,Low,Government,87,Diploma Computer
+507,12th,Science,81,Creative,Technology,High,Job,81,BCA
+508,12th,Science,65,Problem Solving,Arts,High,Business,66,Arts
+509,12th,Science,49,Analytical,Medical,High,Job,52,Pharmacy
+510,10th,None,55,Creative,Arts,Medium,Business,54,Arts
+511,12th,Arts,58,Communication,Arts,Medium,Business,63,Journalism
+512,10th,None,50,Problem Solving,Medical,Medium,Government,54,Science
+513,10th,None,58,Analytical,Business,Low,Government,61,Commerce
+514,12th,Science,48,Communication,Business,Low,Job,50,Commerce
+515,12th,Commerce,80,Technical,Medical,Medium,Job,88,Science
+516,10th,None,52,Technical,Technology,Low,Job,55,Diploma Engineering
+517,12th,Science,85,Leadership,Technology,High,Business,90,B.Tech
+518,10th,None,46,Analytical,Technology,High,Business,54,Diploma Engineering
+519,10th,None,50,Technical,Business,Low,Business,52,Commerce
+520,10th,None,81,Problem Solving,Arts,Medium,Business,80,Arts
+521,12th,Commerce,56,Analytical,Business,Low,Business,60,CA Foundation
+522,12th,Arts,47,Leadership,Design,High,Job,51,Fashion Design
+523,12th,Commerce,80,Technical,Arts,Low,Business,85,Arts
+524,10th,None,71,Problem Solving,Medical,High,Job,75,Science
+525,10th,None,69,Creative,Business,High,Business,70,Commerce
+526,12th,Science,56,Communication,Technology,High,Job,55,B.Sc IT
+527,12th,Science,75,Communication,Design,High,Job,75,Arts
+528,10th,None,60,Communication,Medical,High,Government,59,Science
+529,10th,None,81,Communication,Arts,Low,Job,81,Arts
+530,12th,Arts,89,Leadership,Business,Low,Government,93,Commerce
+531,12th,Arts,81,Leadership,Medical,Low,Business,84,Science
+532,12th,Science,47,Technical,Technology,Low,Government,50,B.Sc IT
+533,10th,None,78,Technical,Arts,Medium,Government,81,Arts
+534,10th,None,66,Communication,Medical,Low,Job,66,Science
+535,10th,None,94,Leadership,Technology,Medium,Job,95,Science
+536,12th,Commerce,66,Communication,Business,Low,Job,70,CA Foundation
+537,12th,Arts,76,Analytical,Business,High,Government,83,Commerce
+538,12th,Science,82,Creative,Medical,Medium,Government,86,Nursing
+539,12th,Science,91,Problem Solving,Technology,High,Business,96,B.Tech
+540,10th,None,56,Communication,Design,High,Job,60,Arts
+541,10th,None,76,Communication,Medical,High,Job,76,Science
+542,12th,Arts,55,Problem Solving,Technology,High,Government,59,Diploma Engineering
+543,12th,Commerce,61,Analytical,Medical,High,Job,65,Science
+544,12th,Arts,91,Technical,Technology,Medium,Business,98,Science
+545,12th,Arts,71,Creative,Arts,Medium,Government,73,Journalism
+546,10th,None,98,Leadership,Arts,High,Government,98,Arts
+547,10th,None,73,Technical,Technology,Medium,Job,77,Diploma Computer
+548,12th,Arts,49,Analytical,Business,Medium,Job,56,Commerce
+549,10th,None,80,Communication,Technology,High,Government,82,Diploma Computer
+550,10th,None,72,Leadership,Medical,Medium,Job,71,Science
+551,10th,None,66,Analytical,Medical,Medium,Government,72,Science
+552,12th,Commerce,64,Technical,Medical,Low,Business,70,Science
+553,12th,Science,68,Creative,Technology,Low,Business,73,B.Sc IT
+554,12th,Science,46,Analytical,Medical,High,Business,48,Pharmacy
+555,12th,Arts,64,Creative,Arts,Medium,Government,65,Journalism
+556,10th,None,86,Creative,Design,Low,Business,88,Arts
+557,12th,Science,47,Creative,Business,Medium,Business,47,Commerce
+558,12th,Commerce,54,Technical,Technology,High,Business,62,Diploma Engineering
+559,12th,Arts,82,Leadership,Medical,Low,Business,87,Science
+560,12th,Arts,88,Leadership,Arts,Low,Business,89,BA
+561,10th,None,70,Leadership,Technology,High,Government,75,Diploma Computer
+562,10th,None,52,Analytical,Arts,Low,Job,60,Arts
+563,10th,None,53,Creative,Technology,Low,Government,55,Diploma Engineering
+564,10th,None,97,Leadership,Medical,Medium,Business,100,Science
+565,10th,None,50,Leadership,Arts,Medium,Government,51,Arts
+566,12th,Commerce,45,Leadership,Design,High,Business,45,Arts
+567,12th,Science,81,Leadership,Design,Low,Job,84,Arts
+568,10th,None,95,Leadership,Business,Medium,Business,96,Commerce
+569,12th,Commerce,81,Creative,Design,Low,Job,82,Arts
+570,12th,Science,83,Technical,Arts,Medium,Business,90,Arts
+571,10th,None,48,Communication,Arts,Medium,Job,49,Arts
+572,12th,Science,98,Problem Solving,Arts,High,Job,100,Arts
+573,10th,None,53,Problem Solving,Business,Medium,Business,54,Commerce
+574,12th,Commerce,50,Creative,Medical,Low,Business,54,Science
+575,12th,Arts,68,Leadership,Technology,Low,Job,69,Diploma Engineering
+576,12th,Science,78,Technical,Design,Low,Job,86,Arts
+577,10th,None,98,Analytical,Technology,Low,Business,100,Science
+578,12th,Arts,62,Creative,Business,High,Business,66,Commerce
+579,10th,None,88,Analytical,Technology,Medium,Business,94,Science
+580,12th,Science,75,Leadership,Design,Medium,Business,75,Arts
+581,12th,Arts,89,Communication,Technology,Low,Business,88,Science
+582,10th,None,81,Analytical,Medical,High,Job,88,Science
+583,10th,None,62,Leadership,Arts,Low,Government,61,Arts
+584,12th,Arts,86,Leadership,Medical,Low,Job,87,Science
+585,12th,Arts,90,Creative,Business,Medium,Business,92,Commerce
+586,12th,Science,64,Leadership,Design,Medium,Government,63,Arts
+587,10th,None,77,Leadership,Business,High,Government,80,Commerce
+588,12th,Science,51,Technical,Arts,Medium,Business,58,Arts
+589,12th,Arts,61,Analytical,Business,Low,Government,69,Commerce
+590,10th,None,48,Creative,Design,High,Business,52,Arts
+591,10th,None,91,Problem Solving,Technology,Medium,Business,92,Science
+592,12th,Commerce,92,Leadership,Technology,High,Government,97,Science
+593,10th,None,66,Problem Solving,Medical,High,Government,71,Science
+594,12th,Arts,87,Leadership,Business,Medium,Job,92,Commerce
+595,10th,None,63,Creative,Technology,Low,Government,64,Diploma Engineering
+596,10th,None,88,Problem Solving,Business,Low,Job,89,Commerce
+597,10th,None,92,Creative,Business,Medium,Business,93,Commerce
+598,12th,Commerce,52,Technical,Arts,High,Government,58,Arts
+599,10th,None,75,Leadership,Medical,Low,Government,77,Science
+600,12th,Commerce,54,Analytical,Medical,Medium,Business,60,Science
+601,12th,Science,90,Technical,Medical,Medium,Business,97,MBBS
+602,10th,None,65,Technical,Technology,Medium,Business,68,Diploma Engineering
+603,10th,None,81,Creative,Medical,Low,Job,84,Science
+604,12th,Commerce,70,Creative,Arts,Medium,Job,69,Arts
+605,10th,None,91,Technical,Business,Medium,Government,94,Commerce
+606,10th,None,88,Problem Solving,Technology,High,Job,88,Science
+607,12th,Science,51,Leadership,Arts,High,Business,51,Arts
+608,10th,None,97,Communication,Technology,Medium,Business,100,Science
+609,12th,Commerce,88,Communication,Medical,Medium,Business,93,Science
+610,10th,None,55,Technical,Arts,Low,Job,62,Arts
+611,10th,None,58,Leadership,Technology,High,Job,57,Diploma Engineering
+612,12th,Arts,95,Creative,Technology,High,Business,100,Science
+613,10th,None,83,Problem Solving,Technology,Low,Government,88,Diploma Computer
+614,10th,None,48,Creative,Technology,Medium,Business,47,Diploma Engineering
+615,12th,Commerce,54,Problem Solving,Medical,High,Government,53,Science
+616,12th,Commerce,51,Communication,Design,High,Government,55,Arts
+617,10th,None,71,Leadership,Technology,High,Government,70,Diploma Computer
+618,12th,Science,51,Analytical,Arts,High,Job,59,Arts
+619,12th,Arts,57,Problem Solving,Business,Medium,Business,57,Commerce
+620,10th,None,80,Analytical,Arts,High,Business,84,Arts
+621,10th,None,45,Problem Solving,Technology,Low,Job,50,Diploma Engineering
+622,12th,Science,50,Technical,Design,High,Government,52,Arts
+623,12th,Commerce,74,Communication,Business,Medium,Job,73,B.Com
+624,10th,None,47,Communication,Business,High,Business,49,Commerce
+625,10th,None,51,Technical,Technology,Low,Government,58,Diploma Engineering
+626,10th,None,66,Creative,Business,High,Business,70,Commerce
+627,10th,None,68,Analytical,Business,Low,Business,73,Commerce
+628,12th,Science,69,Creative,Arts,High,Job,68,Arts
+629,10th,None,89,Analytical,Technology,Low,Business,95,Science
+630,12th,Arts,88,Analytical,Arts,High,Business,96,BA
+631,12th,Commerce,88,Creative,Medical,Medium,Job,90,Science
+632,12th,Science,61,Technical,Business,High,Government,67,Commerce
+633,10th,None,87,Leadership,Business,High,Government,91,Commerce
+634,10th,None,72,Creative,Medical,Medium,Government,76,Science
+635,12th,Science,97,Leadership,Design,Low,Job,100,Arts
+636,10th,None,77,Creative,Arts,Low,Job,82,Arts
+637,12th,Science,66,Technical,Business,High,Job,72,Commerce
+638,12th,Commerce,60,Creative,Technology,Medium,Government,62,Diploma Engineering
+639,10th,None,76,Communication,Arts,Low,Business,80,Arts
+640,10th,None,51,Creative,Arts,Low,Government,54,Arts
+641,10th,None,97,Leadership,Technology,High,Government,98,Science
+642,10th,None,86,Communication,Arts,Medium,Job,91,Arts
+643,10th,None,74,Leadership,Business,High,Government,76,Commerce
+644,12th,Arts,52,Problem Solving,Technology,Low,Job,53,Diploma Engineering
+645,12th,Arts,96,Leadership,Business,High,Business,100,Commerce
+646,10th,None,47,Creative,Medical,Low,Government,51,Science
+647,12th,Science,84,Analytical,Medical,Low,Business,87,Nursing
+648,12th,Arts,57,Technical,Business,Medium,Job,64,Commerce
+649,10th,None,94,Creative,Arts,High,Government,97,Arts
+650,10th,None,76,Leadership,Technology,High,Job,79,Diploma Computer
+651,12th,Arts,75,Analytical,Design,High,Government,78,Animation
+652,10th,None,51,Problem Solving,Arts,High,Government,52,Arts
+653,12th,Commerce,83,Communication,Medical,Medium,Business,84,Science
+654,12th,Arts,53,Leadership,Arts,High,Government,56,Journalism
+655,12th,Arts,80,Problem Solving,Business,High,Government,84,Commerce
+656,10th,None,57,Leadership,Medical,High,Business,61,Science
+657,12th,Arts,53,Leadership,Medical,High,Government,57,Science
+658,12th,Arts,93,Leadership,Business,Medium,Government,96,Commerce
+659,12th,Commerce,98,Communication,Design,Medium,Job,100,Arts
+660,10th,None,46,Analytical,Arts,Low,Government,48,Arts
+661,10th,None,62,Communication,Medical,High,Business,62,Science
+662,10th,None,89,Analytical,Business,High,Job,93,Commerce
+663,12th,Science,88,Analytical,Design,High,Government,94,Arts
+664,12th,Science,95,Problem Solving,Business,High,Job,97,Commerce
+665,12th,Commerce,95,Leadership,Business,Low,Job,99,BBA
+666,12th,Science,94,Analytical,Arts,High,Government,100,Arts
+667,12th,Arts,79,Analytical,Design,High,Job,83,Animation
+668,12th,Science,88,Analytical,Technology,Low,Government,94,B.Tech
+669,10th,None,69,Creative,Technology,Medium,Government,70,Diploma Engineering
+670,10th,None,55,Communication,Design,Low,Business,57,Arts
+671,10th,None,47,Communication,Medical,High,Job,52,Science
+672,12th,Commerce,81,Communication,Design,Low,Government,82,Arts
+673,10th,None,56,Technical,Design,High,Job,61,Arts
+674,12th,Science,59,Problem Solving,Medical,Medium,Business,60,Pharmacy
+675,12th,Science,93,Leadership,Design,Medium,Government,98,Arts
+676,10th,None,52,Creative,Business,Low,Government,55,Commerce
+677,10th,None,47,Creative,Business,Low,Business,48,Commerce
+678,12th,Science,78,Leadership,Business,High,Business,80,Commerce
+679,10th,None,63,Communication,Medical,High,Job,62,Science
+680,10th,None,94,Leadership,Design,Low,Government,93,Arts
+681,10th,None,87,Problem Solving,Medical,Medium,Job,87,Science
+682,12th,Commerce,49,Technical,Medical,Medium,Government,53,Science
+683,10th,None,50,Technical,Technology,Low,Business,56,Diploma Engineering
+684,10th,None,81,Communication,Medical,Medium,Business,83,Science
+685,12th,Commerce,46,Problem Solving,Arts,Low,Government,45,Arts
+686,10th,None,93,Technical,Design,High,Job,97,Arts
+687,10th,None,63,Leadership,Business,Low,Business,68,Commerce
+688,12th,Science,97,Creative,Technology,Low,Government,97,B.Tech
+689,10th,None,92,Leadership,Arts,Medium,Government,92,Arts
+690,12th,Commerce,95,Technical,Business,High,Government,98,BBA
+691,10th,None,47,Leadership,Technology,High,Business,50,Diploma Engineering
+692,10th,None,64,Problem Solving,Medical,High,Government,65,Science
+693,10th,None,71,Analytical,Design,Low,Job,74,Arts
+694,12th,Science,56,Technical,Design,High,Business,63,Arts
+695,10th,None,63,Communication,Technology,Low,Job,67,Diploma Engineering
+696,12th,Arts,67,Problem Solving,Medical,High,Job,66,Science
+697,12th,Commerce,57,Creative,Business,Medium,Business,60,CA Foundation
+698,12th,Commerce,54,Leadership,Design,Medium,Business,56,Arts
+699,10th,None,45,Analytical,Business,Low,Government,52,Commerce
+700,12th,Science,68,Problem Solving,Medical,High,Business,70,Pharmacy
+701,12th,Commerce,94,Creative,Business,High,Job,94,BBA
+702,10th,None,98,Analytical,Business,High,Job,100,Commerce
+703,10th,None,91,Technical,Technology,High,Government,93,Science
+704,12th,Arts,58,Leadership,Technology,Medium,Government,61,Diploma Engineering
+705,12th,Commerce,54,Creative,Business,Low,Government,58,CA Foundation
+706,12th,Science,77,Technical,Design,Medium,Business,83,Arts
+707,10th,None,87,Leadership,Medical,High,Job,92,Science
+708,10th,None,73,Analytical,Medical,High,Government,80,Science
+709,10th,None,92,Communication,Arts,Low,Job,97,Arts
+710,12th,Science,61,Analytical,Business,Low,Government,64,Commerce
+711,12th,Science,74,Technical,Technology,High,Business,76,BCA
+712,12th,Arts,61,Leadership,Design,High,Job,63,Fashion Design
+713,12th,Science,86,Leadership,Technology,Medium,Business,86,B.Tech
+714,12th,Science,67,Creative,Arts,High,Job,70,Arts
+715,10th,None,73,Analytical,Medical,Low,Government,80,Science
+716,12th,Science,56,Communication,Medical,High,Government,61,Pharmacy
+717,10th,None,87,Creative,Medical,Medium,Government,86,Science
+718,12th,Commerce,75,Leadership,Medical,Low,Government,80,Science
+719,12th,Science,47,Leadership,Medical,High,Job,47,Pharmacy
+720,10th,None,81,Technical,Medical,Low,Business,84,Science
+721,12th,Commerce,81,Problem Solving,Technology,High,Government,86,Diploma Computer
+722,12th,Arts,58,Leadership,Arts,Medium,Business,58,Journalism
+723,10th,None,98,Leadership,Arts,Low,Government,100,Arts
+724,10th,None,84,Communication,Design,Low,Government,88,Arts
+725,12th,Arts,83,Technical,Design,Low,Business,88,Animation
+726,10th,None,51,Analytical,Technology,High,Government,58,Diploma Engineering
+727,12th,Arts,83,Analytical,Technology,Medium,Government,89,Diploma Computer
+728,10th,None,95,Leadership,Design,Low,Job,97,Arts
+729,10th,None,83,Technical,Design,High,Government,88,Arts
+730,12th,Science,47,Creative,Design,Low,Business,52,Arts
+731,12th,Science,96,Technical,Design,Medium,Job,100,Arts
+732,12th,Arts,50,Leadership,Business,High,Business,51,Commerce
+733,10th,None,45,Leadership,Technology,High,Job,48,Diploma Engineering
+734,10th,None,69,Problem Solving,Medical,Medium,Business,70,Science
+735,10th,None,54,Problem Solving,Arts,High,Business,55,Arts
+736,12th,Commerce,84,Problem Solving,Business,Medium,Job,86,B.Com
+737,12th,Science,80,Creative,Design,Medium,Business,83,Arts
+738,12th,Arts,70,Problem Solving,Medical,Low,Government,70,Science
+739,12th,Arts,55,Analytical,Technology,High,Business,63,Diploma Engineering
+740,12th,Arts,84,Analytical,Technology,Medium,Government,86,Diploma Computer
+741,10th,None,97,Creative,Medical,High,Business,96,Science
+742,10th,None,61,Communication,Medical,Low,Government,60,Science
+743,12th,Arts,70,Problem Solving,Design,High,Business,74,Animation
+744,10th,None,94,Problem Solving,Medical,Medium,Business,93,Science
+745,10th,None,87,Communication,Design,Low,Job,92,Arts
+746,10th,None,84,Problem Solving,Medical,Low,Business,84,Science
+747,10th,None,55,Communication,Technology,Medium,Business,59,Diploma Engineering
+748,12th,Commerce,57,Technical,Design,High,Government,59,Arts
+749,10th,None,80,Problem Solving,Business,High,Government,81,Commerce
+750,12th,Arts,62,Leadership,Medical,Low,Business,64,Science
+751,10th,None,61,Creative,Medical,High,Job,64,Science
+752,10th,None,77,Communication,Business,Low,Government,78,Commerce
+753,12th,Commerce,69,Creative,Design,Low,Business,74,Arts
+754,12th,Commerce,82,Creative,Technology,Low,Business,81,Diploma Computer
+755,12th,Commerce,59,Communication,Medical,Medium,Business,62,Science
+756,10th,None,89,Analytical,Business,Medium,Job,94,Commerce
+757,12th,Science,56,Communication,Arts,Medium,Job,59,Arts
+758,12th,Science,92,Creative,Medical,High,Job,92,MBBS
+759,10th,None,61,Analytical,Medical,Low,Job,69,Science
+760,12th,Science,51,Technical,Technology,High,Government,56,B.Sc IT
+761,10th,None,93,Technical,Design,Medium,Business,99,Arts
+762,12th,Commerce,81,Creative,Business,Low,Government,82,B.Com
+763,12th,Science,81,Technical,Medical,High,Business,86,Nursing
+764,10th,None,77,Creative,Business,High,Job,79,Commerce
+765,10th,None,89,Creative,Design,Medium,Government,88,Arts
+766,10th,None,88,Creative,Medical,High,Job,89,Science
+767,12th,Commerce,61,Leadership,Medical,Medium,Job,62,Science
+768,12th,Arts,66,Analytical,Business,Medium,Business,69,Commerce
+769,12th,Arts,68,Creative,Business,Medium,Business,68,Commerce
+770,10th,None,81,Technical,Medical,High,Business,89,Science
+771,10th,None,80,Creative,Arts,Low,Job,85,Arts
+772,10th,None,75,Analytical,Technology,Medium,Business,78,Diploma Computer
+773,12th,Arts,64,Leadership,Business,High,Job,66,Commerce
+774,10th,None,89,Technical,Medical,Low,Business,94,Science
+775,10th,None,73,Communication,Business,Medium,Business,76,Commerce
+776,12th,Science,71,Communication,Technology,High,Government,71,BCA
+777,10th,None,94,Communication,Business,Medium,Government,97,Commerce
+778,12th,Arts,73,Creative,Technology,High,Business,75,Diploma Computer
+779,10th,None,55,Creative,Business,High,Government,58,Commerce
+780,12th,Arts,49,Analytical,Technology,Medium,Job,53,Diploma Engineering
+781,12th,Commerce,90,Leadership,Business,High,Business,91,BBA
+782,12th,Arts,68,Leadership,Design,Medium,Business,68,Fashion Design
+783,10th,None,46,Problem Solving,Medical,Low,Government,47,Science
+784,10th,None,58,Creative,Medical,Low,Job,57,Science
+785,12th,Commerce,46,Leadership,Arts,Low,Job,47,Arts
+786,10th,None,50,Communication,Arts,Low,Job,54,Arts
+787,12th,Commerce,53,Leadership,Medical,Low,Job,52,Science
+788,12th,Arts,65,Creative,Arts,High,Business,68,Journalism
+789,12th,Science,89,Analytical,Design,High,Government,94,Arts
+790,12th,Commerce,85,Communication,Design,Medium,Business,88,Arts
+791,10th,None,96,Creative,Technology,Medium,Business,98,Science
+792,12th,Science,45,Leadership,Technology,Low,Business,46,B.Sc IT
+793,12th,Commerce,89,Creative,Arts,Medium,Job,94,Arts
+794,12th,Arts,83,Technical,Medical,High,Business,86,Science
+795,12th,Arts,72,Analytical,Arts,Low,Government,79,Journalism
+796,12th,Arts,59,Technical,Business,Medium,Government,62,Commerce
+797,12th,Science,92,Communication,Design,Medium,Job,97,Arts
+798,10th,None,56,Communication,Medical,Low,Government,58,Science
+799,12th,Science,84,Analytical,Arts,Medium,Job,87,Arts
+800,10th,None,79,Analytical,Technology,Low,Business,83,Diploma Computer
+801,10th,None,90,Problem Solving,Arts,Low,Job,89,Arts
+802,10th,None,45,Analytical,Arts,Medium,Business,49,Arts
+803,12th,Arts,74,Communication,Technology,Low,Job,73,Diploma Computer
+804,12th,Arts,49,Creative,Design,Low,Job,54,Fashion Design
+805,12th,Arts,98,Technical,Technology,High,Job,100,Science
+806,12th,Science,47,Creative,Medical,High,Job,50,Pharmacy
+807,10th,None,75,Problem Solving,Arts,Medium,Business,75,Arts
+808,10th,None,92,Leadership,Design,Low,Business,94,Arts
+809,12th,Science,48,Technical,Medical,Low,Government,53,Pharmacy
+810,12th,Science,95,Leadership,Business,Low,Business,100,Commerce
+811,10th,None,45,Leadership,Technology,High,Business,49,Diploma Engineering
+812,10th,None,68,Analytical,Technology,Low,Business,70,Diploma Engineering
+813,12th,Arts,93,Technical,Technology,Medium,Government,96,Science
+814,10th,None,53,Analytical,Arts,Medium,Government,61,Arts
+815,12th,Arts,73,Technical,Medical,High,Business,77,Science
+816,10th,None,61,Creative,Technology,High,Business,64,Diploma Engineering
+817,12th,Commerce,76,Leadership,Medical,Low,Government,77,Science
+818,12th,Arts,62,Leadership,Design,Low,Job,65,Fashion Design
+819,10th,None,73,Communication,Business,High,Business,75,Commerce
+820,10th,None,94,Creative,Design,High,Job,93,Arts
+821,12th,Arts,60,Problem Solving,Business,Low,Government,63,Commerce
+822,12th,Science,88,Leadership,Arts,Low,Government,89,Arts
+823,12th,Commerce,65,Technical,Technology,High,Government,67,Diploma Engineering
+824,10th,None,98,Analytical,Medical,Low,Job,100,Science
+825,12th,Science,47,Problem Solving,Design,Medium,Government,49,Arts
+826,12th,Science,59,Problem Solving,Design,Low,Job,59,Arts
+827,12th,Arts,98,Creative,Technology,High,Job,99,Science
+828,12th,Arts,95,Leadership,Technology,Medium,Government,94,Science
+829,10th,None,98,Technical,Business,Low,Government,100,Commerce
+830,10th,None,91,Leadership,Medical,Medium,Job,91,Science
+831,10th,None,81,Leadership,Medical,High,Government,83,Science
+832,10th,None,94,Communication,Design,High,Business,98,Arts
+833,12th,Arts,55,Leadership,Medical,Medium,Government,56,Science
+834,10th,None,79,Creative,Design,Medium,Business,82,Arts
+835,12th,Arts,71,Problem Solving,Arts,Medium,Government,71,Journalism
+836,10th,None,69,Problem Solving,Design,Medium,Business,71,Arts
+837,12th,Arts,45,Communication,Technology,High,Job,48,Diploma Engineering
+838,10th,None,64,Communication,Technology,Low,Job,69,Diploma Engineering
+839,12th,Science,97,Leadership,Business,High,Government,100,Commerce
+840,10th,None,51,Creative,Technology,Medium,Job,51,Diploma Engineering
+841,12th,Science,82,Analytical,Medical,Medium,Business,84,Nursing
+842,12th,Commerce,58,Problem Solving,Technology,Medium,Business,58,Diploma Engineering
+843,12th,Arts,89,Technical,Design,High,Government,93,B.Des
+844,10th,None,91,Creative,Design,Low,Job,96,Arts
+845,12th,Science,97,Creative,Arts,Low,Job,100,Arts
+846,10th,None,85,Technical,Arts,Medium,Government,87,Arts
+847,12th,Commerce,54,Leadership,Business,High,Job,54,CA Foundation
+848,10th,None,88,Creative,Arts,High,Government,91,Arts
+849,10th,None,59,Communication,Arts,Medium,Job,59,Arts
+850,12th,Science,81,Leadership,Technology,Medium,Business,80,BCA
+851,12th,Commerce,94,Analytical,Medical,Medium,Government,97,Science
+852,12th,Science,81,Leadership,Medical,High,Government,84,Nursing
+853,10th,None,60,Communication,Technology,Medium,Business,64,Diploma Engineering
+854,10th,None,52,Creative,Arts,Medium,Business,52,Arts
+855,12th,Science,86,Communication,Technology,Low,Business,89,B.Tech
+856,12th,Commerce,73,Analytical,Technology,Low,Government,77,Diploma Computer
+857,10th,None,93,Technical,Technology,High,Job,96,Science
+858,10th,None,98,Technical,Business,Medium,Government,100,Commerce
+859,10th,None,64,Creative,Arts,Low,Business,64,Arts
+860,10th,None,58,Leadership,Design,Medium,Government,60,Arts
+861,10th,None,89,Creative,Technology,High,Government,92,Science
+862,10th,None,61,Technical,Medical,Medium,Job,69,Science
+863,12th,Science,86,Technical,Technology,Medium,Government,90,B.Tech
+864,12th,Arts,46,Problem Solving,Business,Medium,Job,48,Commerce
+865,10th,None,65,Leadership,Arts,High,Job,65,Arts
+866,10th,None,77,Leadership,Arts,High,Job,76,Arts
+867,10th,None,78,Communication,Business,Medium,Business,82,Commerce
+868,10th,None,46,Problem Solving,Business,Medium,Business,50,Commerce
+869,12th,Science,77,Technical,Business,High,Business,82,Commerce
+870,10th,None,80,Analytical,Business,Low,Business,85,Commerce
+871,10th,None,50,Leadership,Arts,High,Government,55,Arts
+872,10th,None,71,Leadership,Medical,Low,Business,72,Science
+873,12th,Commerce,53,Problem Solving,Medical,Low,Government,56,Science
+874,10th,None,53,Problem Solving,Business,High,Government,53,Commerce
+875,12th,Arts,94,Problem Solving,Medical,High,Job,95,Science
+876,10th,None,80,Problem Solving,Design,Low,Job,81,Arts
+877,10th,None,91,Communication,Technology,Medium,Business,92,Science
+878,12th,Arts,97,Analytical,Business,Low,Job,100,Commerce
+879,10th,None,46,Leadership,Design,Medium,Government,49,Arts
+880,10th,None,83,Analytical,Medical,High,Job,87,Science
+881,10th,None,89,Analytical,Arts,High,Government,94,Arts
+882,12th,Science,69,Creative,Arts,Low,Job,69,Arts
+883,10th,None,47,Technical,Arts,Medium,Business,50,Arts
+884,10th,None,93,Technical,Medical,Low,Business,100,Science
+885,12th,Commerce,74,Creative,Medical,Medium,Job,77,Science
+886,12th,Arts,70,Problem Solving,Design,High,Government,73,Animation
+887,10th,None,78,Creative,Technology,Medium,Job,78,Diploma Computer
+888,12th,Arts,47,Creative,Design,High,Government,46,Fashion Design
+889,10th,None,63,Creative,Arts,Medium,Business,65,Arts
+890,10th,None,72,Leadership,Business,Low,Government,75,Commerce
+891,10th,None,74,Technical,Arts,High,Government,76,Arts
+892,10th,None,94,Problem Solving,Design,High,Job,96,Arts
+893,12th,Science,46,Creative,Medical,High,Government,46,Pharmacy
+894,12th,Science,65,Problem Solving,Medical,High,Job,64,Pharmacy
+895,10th,None,90,Problem Solving,Arts,Medium,Job,93,Arts
+896,12th,Arts,77,Analytical,Design,Medium,Government,82,Animation
+897,10th,None,94,Communication,Medical,High,Government,99,Science
+898,10th,None,55,Analytical,Medical,High,Job,60,Science
+899,12th,Science,94,Communication,Arts,High,Job,93,Arts
+900,10th,None,57,Leadership,Technology,Medium,Job,59,Diploma Engineering
+901,12th,Arts,79,Leadership,Technology,Medium,Job,79,Diploma Computer
+902,12th,Commerce,73,Leadership,Technology,High,Job,73,Diploma Computer
+903,12th,Commerce,80,Technical,Medical,Low,Job,82,Science
+904,12th,Science,47,Leadership,Design,Medium,Business,46,Arts
+905,10th,None,51,Analytical,Arts,Low,Government,55,Arts
+906,10th,None,74,Communication,Design,Low,Job,79,Arts
+907,12th,Science,69,Creative,Technology,High,Job,70,B.Sc IT
+908,12th,Science,89,Communication,Business,High,Business,92,Commerce
+909,10th,None,89,Leadership,Medical,Low,Job,92,Science
+910,10th,None,75,Problem Solving,Design,Medium,Business,78,Arts
+911,12th,Science,81,Communication,Design,Low,Government,84,Arts
+912,12th,Commerce,85,Creative,Arts,Low,Government,85,Arts
+913,12th,Arts,45,Technical,Technology,Medium,Government,53,Diploma Engineering
+914,10th,None,92,Leadership,Medical,Medium,Business,91,Science
+915,12th,Science,96,Technical,Medical,High,Job,100,MBBS
+916,12th,Science,49,Communication,Business,High,Government,50,Commerce
+917,10th,None,52,Communication,Business,Medium,Government,55,Commerce
+918,10th,None,98,Analytical,Medical,Medium,Business,100,Science
+919,12th,Arts,96,Problem Solving,Technology,Low,Business,96,Science
+920,12th,Arts,79,Creative,Business,Medium,Government,78,Commerce
+921,12th,Commerce,88,Leadership,Business,High,Job,88,BBA
+922,12th,Arts,95,Technical,Business,Low,Business,100,Commerce
+923,10th,None,66,Problem Solving,Arts,High,Job,69,Arts
+924,12th,Science,52,Problem Solving,Business,Medium,Government,51,Commerce
+925,12th,Commerce,76,Communication,Medical,Medium,Business,76,Science
+926,12th,Science,68,Analytical,Technology,Low,Business,74,B.Sc IT
+927,10th,None,96,Leadership,Arts,Low,Job,97,Arts
+928,12th,Arts,78,Communication,Business,Low,Job,83,Commerce
+929,10th,None,58,Creative,Technology,Medium,Government,63,Diploma Engineering
+930,10th,None,45,Technical,Business,High,Government,53,Commerce
+931,10th,None,66,Technical,Arts,Low,Government,74,Arts
+932,12th,Science,93,Problem Solving,Business,Low,Business,93,Commerce
+933,10th,None,63,Leadership,Business,Medium,Business,67,Commerce
+934,10th,None,62,Analytical,Medical,Medium,Job,64,Science
+935,10th,None,58,Communication,Design,High,Business,59,Arts
+936,10th,None,90,Leadership,Business,Low,Job,89,Commerce
+937,12th,Commerce,66,Creative,Design,Low,Job,65,Arts
+938,12th,Arts,48,Creative,Technology,Low,Job,50,Diploma Engineering
+939,12th,Science,83,Problem Solving,Design,High,Government,85,Arts
+940,12th,Science,97,Problem Solving,Medical,High,Government,96,MBBS
+941,12th,Commerce,50,Technical,Arts,Medium,Business,57,Arts
+942,12th,Commerce,59,Leadership,Medical,Medium,Business,61,Science
+943,10th,None,89,Communication,Business,Medium,Business,88,Commerce
+944,10th,None,75,Communication,Technology,Medium,Business,80,Diploma Computer
+945,10th,None,63,Leadership,Business,High,Job,66,Commerce
+946,10th,None,70,Communication,Technology,High,Government,69,Diploma Computer
+947,12th,Commerce,70,Creative,Design,Low,Government,70,Arts
+948,10th,None,75,Technical,Arts,Medium,Job,83,Arts
+949,12th,Arts,72,Communication,Design,High,Government,72,Animation
+950,10th,None,87,Problem Solving,Technology,High,Government,92,Science
+951,12th,Science,83,Communication,Arts,High,Job,88,Arts
+952,12th,Science,70,Leadership,Technology,Low,Government,75,BCA
+953,12th,Science,86,Technical,Technology,Low,Job,92,B.Tech
+954,10th,None,93,Problem Solving,Medical,Low,Business,96,Science
+955,12th,Science,81,Analytical,Arts,Low,Government,85,Arts
+956,12th,Commerce,88,Creative,Business,High,Business,87,BBA
+957,10th,None,84,Creative,Design,Low,Business,83,Arts
+958,12th,Arts,48,Problem Solving,Technology,High,Business,47,Diploma Engineering
+959,12th,Arts,60,Problem Solving,Arts,High,Business,64,Journalism
+960,12th,Arts,70,Creative,Arts,High,Job,74,Journalism
+961,10th,None,75,Analytical,Medical,High,Business,83,Science
+962,12th,Arts,54,Problem Solving,Business,Low,Job,53,Commerce
+963,10th,None,86,Analytical,Technology,High,Business,93,Science
+964,12th,Arts,53,Analytical,Technology,High,Business,61,Diploma Engineering
+965,12th,Arts,89,Creative,Design,High,Job,91,B.Des
+966,12th,Commerce,73,Communication,Arts,Low,Job,75,Arts
+967,10th,None,81,Problem Solving,Arts,Low,Government,84,Arts
+968,12th,Commerce,79,Communication,Design,Low,Job,82,Arts
+969,12th,Arts,52,Creative,Design,High,Job,52,Fashion Design
+970,12th,Commerce,50,Leadership,Design,Low,Job,52,Arts
+971,10th,None,88,Leadership,Design,Medium,Government,87,Arts
+972,12th,Commerce,45,Creative,Arts,High,Business,48,Arts
+973,12th,Commerce,96,Communication,Business,Low,Job,100,BBA
+974,12th,Arts,81,Technical,Business,High,Business,87,Commerce
+975,10th,None,81,Problem Solving,Technology,Medium,Government,84,Diploma Computer
+976,10th,None,63,Technical,Arts,Low,Government,65,Arts
+977,12th,Science,84,Communication,Business,Medium,Job,88,Commerce
+978,10th,None,83,Leadership,Medical,High,Job,87,Science
+979,12th,Science,56,Problem Solving,Business,Low,Business,56,Commerce
+980,10th,None,66,Analytical,Technology,High,Job,74,Diploma Engineering
+981,12th,Arts,71,Analytical,Arts,High,Business,78,Journalism
+982,10th,None,58,Problem Solving,Design,Medium,Job,62,Arts
+983,12th,Arts,52,Analytical,Technology,Medium,Business,57,Diploma Engineering
+984,12th,Commerce,93,Analytical,Design,Medium,Government,100,Arts
+985,12th,Commerce,54,Creative,Design,Low,Business,59,Arts
+986,12th,Science,65,Problem Solving,Design,Low,Job,68,Arts
+987,12th,Arts,72,Problem Solving,Design,Medium,Business,73,Animation
+988,12th,Arts,61,Creative,Design,Medium,Government,65,Fashion Design
+989,10th,None,91,Analytical,Design,High,Business,98,Arts
+990,10th,None,65,Technical,Design,High,Job,73,Arts
+991,10th,None,45,Technical,Arts,High,Job,52,Arts
+992,12th,Science,91,Communication,Business,Low,Job,90,Commerce
+993,10th,None,48,Problem Solving,Design,Low,Government,52,Arts
+994,10th,None,90,Technical,Technology,High,Job,95,Science
+995,10th,None,52,Communication,Medical,Medium,Business,56,Science
+996,10th,None,85,Communication,Arts,Medium,Government,89,Arts
+997,12th,Science,94,Communication,Technology,Low,Business,96,B.Tech
+998,12th,Arts,61,Analytical,Business,Medium,Job,66,Commerce
+999,10th,None,84,Analytical,Arts,High,Business,86,Arts
+1000,10th,None,79,Analytical,Arts,High,Government,81,Arts
