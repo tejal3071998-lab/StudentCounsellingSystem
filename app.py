@@ -77,6 +77,123 @@ if df is not None:
     # Train models on launch
     lin_model, log_model = train_models(df)
 
+
+ # Course Recommendation Dictionary
+    course_recommendations = {
+
+        "Engineering": {
+            "best": "Bachelor of Technology (B.Tech)",
+            "others": [
+                "B.Tech AI & Machine Learning",
+                "B.Tech Computer Science",
+                "B.Tech Information Technology",
+                "BCA",
+                "B.Sc Computer Science"
+            ]
+        },
+
+        "Medical": {
+            "best": "MBBS",
+            "others": [
+                "BDS",
+                "BAMS",
+                "BHMS",
+                "B.Sc Nursing",
+                "Bachelor of Pharmacy"
+            ]
+        },
+
+        "Commerce": {
+            "best": "Bachelor of Commerce (B.Com)",
+            "others": [
+                "Bachelor of Business Administration (BBA)",
+                "Chartered Accountant (CA)",
+                "Company Secretary (CS)",
+                "Bachelor of Economics",
+                "Bachelor of Accounting & Finance"
+            ]
+        },
+
+        "Arts": {
+            "best": "Bachelor of Arts (BA)",
+            "others": [
+                "Bachelor of Journalism",
+                "Bachelor of Fine Arts",
+                "Bachelor of Social Work",
+                "Bachelor of Psychology",
+                "Bachelor of Laws (LLB)"
+            ]
+        },
+
+        "Computer Science": {
+            "best": "Bachelor of Computer Applications (BCA)",
+            "others": [
+                "B.Tech Computer Science",
+                "B.Sc Computer Science",
+                "B.Tech Artificial Intelligence",
+                "B.Tech Cyber Security",
+                "B.Sc Information Technology"
+            ]
+        },
+
+        "Business": {
+            "best": "Bachelor of Business Administration (BBA)",
+            "others": [
+                "B.Com",
+                "Bachelor of Management Studies",
+                "Bachelor of Economics",
+                "Digital Marketing",
+                "MBA (After Graduation)"
+            ]
+        },
+
+        "Law": {
+            "best": "Bachelor of Laws (LLB)",
+            "others": [
+                "BA LLB",
+                "BBA LLB",
+                "B.Com LLB",
+                "Corporate Law",
+                "Cyber Law"
+            ]
+        },
+
+        "Design": {
+            "best": "Bachelor of Design (B.Des)",
+            "others": [
+                "Fashion Designing",
+                "Interior Designing",
+                "Graphic Designing",
+                "Animation & VFX",
+                "UI/UX Design"
+            ]
+        },
+
+        "Agriculture": {
+            "best": "B.Sc Agriculture",
+            "others": [
+                "Horticulture",
+                "Food Technology",
+                "Forestry",
+                "Veterinary Science",
+                "Agricultural Engineering"
+            ]
+        },
+
+        "Hospitality": {
+            "best": "Bachelor of Hotel Management (BHM)",
+            "others": [
+                "Travel & Tourism",
+                "Event Management",
+                "Airline Management",
+                "Hospital Administration",
+                "Culinary Arts"
+            ]
+        }
+    }
+
+    
+
     # ------------------ MAIN INTERACTIVE PANEL ------------------
     st.header("🔍 Interactive Student Assessment")
     st.write("Fill out the profile details below to discover personalized recommendations.")
@@ -129,22 +246,52 @@ if df is not None:
         # Bound readiness score within reasonable bounds [0-100]
         predicted_score = max(0, min(100, predicted_score))
 
-        # Display Results
+         # Display Results
         st.success("🎉 Recommendations successfully compiled!")
 
         res_col1, res_col2 = st.columns(2)
+
         with res_col1:
             st.metric(
-                label="⚡ Forecasted Career Readiness Score",
+                label="⚡ Career Readiness Score",
                 value=f"{predicted_score:.1f} / 100"
             )
             st.progress(int(predicted_score))
-            st.caption("This rating evaluates your readiness metrics against target professional ecosystems.")
 
         with res_col2:
-            st.metric(
-                label="🎓 Best Fit Recommended Course",
-                value=str(predicted_course)
+
+            recommendation = course_recommendations.get(
+                predicted_course,
+                {
+                    "best": predicted_course,
+                    "others": []
+                }
             )
-            st.info(
-                f"Based on your profile, pursuing **{predicted_course}** coordinates ideally with your interest in *{interest_area}*.")
+
+            st.metric(
+                label="🎯 Best Recommended Course",
+                value=recommendation["best"]
+            )
+
+        st.markdown("---")
+
+        st.subheader("📚 Other Suitable Course Options")
+
+        if recommendation["others"]:
+            for course in recommendation["others"]:
+                st.write(f"✅ {course}")
+        else:
+            st.info("No additional course recommendations available.")
+
+        st.markdown("---")
+
+        st.subheader("💡 Career Guidance")
+
+        st.info(
+            f"""
+        Based on your academic profile, skills, and interests, **{recommendation['best']}**
+        is the most suitable course for you.
+
+        You may also consider the alternative courses listed above, as they are closely
+        related to your strengths and career goals.
+        """      )
